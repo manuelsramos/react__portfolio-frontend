@@ -13,12 +13,11 @@
 
 :root {
     --color-bg: #202022;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4ca2da;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-bg-variant: #a7a9ac;
+    --color-primary: #4285f4;
+    --color-primary-variant: rgba(194, 192, 191, 0.5);
     --color-black: #090C0A;
-    --color-light: rgba(74, 79, 88);
-
+    --color-light: rgba(194, 192, 191, 0.1);
     --transition: all 750ms ease;
 
     --container-width-lg: 75%;

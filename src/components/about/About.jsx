@@ -6,7 +6,10 @@ import { BiBook, BiWorld } from 'react-icons/bi'
 
 const About = () => {
     return (
-        <section id='about' data-aos="fade-right" >
+        <section id='about' data-aos="fade-right"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine"
+            data-aos-duration="1200">
             <h5>Get To Know</h5>
             <h2>About Me</h2>
 
