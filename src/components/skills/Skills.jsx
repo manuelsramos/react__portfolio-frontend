@@ -54,6 +54,7 @@ const Skills = () => {
                 </div>
                 <div className="skills__image">
                     <img src={JS} className='skills__image-me' />
+                    <br></br>
                     <span className='shadow'></span>
                 </div>
 

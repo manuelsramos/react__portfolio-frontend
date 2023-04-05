@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import BROWSER from '../../assets/browser.png'
+import ROBOTS from '../../assets/robots.png'
 import { TbViewfinder } from 'react-icons/tb'
 import { BiBook, BiWorld } from 'react-icons/bi'
 
@@ -16,7 +16,7 @@ const About = () => {
             <div className="container about__container">
                 <div className="about__me">
                     <div className="about__me-image">
-                        <img src={BROWSER} alt="About Image" />
+                        <img src={ROBOTS} alt="About Image" />
                     </div>
                 </div>
 

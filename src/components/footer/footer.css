@@ -19,6 +19,10 @@ footer a {
     display: inline-block;
 }
 
+.footer__logo:hover {
+    color: var(--color-black);
+}
+
 .permalinks {
     display: flex;
     flex-wrap: wrap;
@@ -52,10 +56,15 @@ footer a {
 
 }
 
+.social__list:hover {
+    font-weight: 500;
+    color: var(--color-black);
+    transition: 100ms;
+}
+
 .footer-icons {
     font-size: 1.2rem;
 }
-
 
 
 .footer__copyright {
