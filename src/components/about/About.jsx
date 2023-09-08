@@ -26,7 +26,7 @@ const About = () => {
                         <article className="about__card">
                             <TbViewfinder className='about__icon' />
                             <h5>Experience</h5>
-                            <small>I'm looking my first experience</small>
+                            <small>Indepedent Developer</small>
                         </article>
 
 
@@ -34,7 +34,10 @@ const About = () => {
                         <article className="about__card">
                             <BiBook className='about__icon' />
                             <h5>Learned</h5>
-                            <small>Where i learn</small>
+                            <small>Udemy
+                                <br />Coderhouse
+                            </small>
+
                         </article>
 
 
@@ -45,7 +48,9 @@ const About = () => {
                         </article>
                     </div>
 
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias maiores recusandae distinctio. Quis aliquam incidunt temporibus dignissimos quo non iste voluptas repudiandae nostrum facere quod unde, corporis, quidem rem optio?</p>
+                    <p>My name is Manuel Santamaria and I'm a frontend developer. I'm a passionate person that like to solve problems and create functional web apps. Besides, I consider myself a creative developer that is committed to become a better professional.
+                        <br /> I'm looking for my first job opportunity, so don't hesitate to contact me. I would be so glad to be in touch!
+                    </p>
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
                 </div>
             </div>
