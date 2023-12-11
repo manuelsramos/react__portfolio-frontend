@@ -122,8 +122,15 @@
     }
 
     .skills__container>div {
-        width: 100%;
-        padding: 2rem 1rem;
+        width: 98%;
+        padding: 1rem 0;
+        margin-left: 0;
     }
 
+    .skills__details {
+        font-size: 0.9em;
+        margin: 0 5px;
+
+
+    }
 }

@@ -33,7 +33,7 @@ const data = [
         image: PORTFOLIO4,
         title: 'Weather App',
         github: 'https://github.com/manuelsramos/weather-app',
-        demo: 'https://weather-1r2g9ou72-manuelsramos.vercel.app/'
+        demo: 'https://weathermanuelsr.vercel.app/'
     },
     {
         id: 5,
